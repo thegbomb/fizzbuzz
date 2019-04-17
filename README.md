@@ -1,2 +1,2 @@
 # fizzbuzz
-Cyberhawk Innovations wind turbine test
+Wind turbine test
